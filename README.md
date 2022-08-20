@@ -1,8 +1,8 @@
 - 👋 Oi, eu sou Felipe Gustavo
 - 👀 Eu estou interessado em conhecimento!
 - 🌱 Atualmente estou aprendendo Programação
-- 💞️ Quero colaborar com novas ideas
-- 📫 How to reach me @lipegusv no instagram
+- 💞️ Quero colaborar com novas ideias
+- 📫 Como Chegar até mim: @lipegusv no instagram
 
 <!---
 lipegusv/lipegusv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
